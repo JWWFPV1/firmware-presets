@@ -170,6 +170,7 @@
       "John Wade",
       "Joshua Bardwell",
       "Justice - Gary Kent",
+      "JWWFPV",
       "Jye Smith",
       "KMfpv",
       "LeadFingers",
@@ -800,6 +801,25 @@
         "switch"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/modes/jwwfpv_rth_modes.txt",
+      "hash": "790b34a9eed056fb053b627d4721e90e66079255685d8c37d9ef279f98822c60",
+      "title": "JWWFPV 4.3 Modes and Adjustment settings with GPS Rescue",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "JWWFPV",
       "priority": 0
     },
     {
